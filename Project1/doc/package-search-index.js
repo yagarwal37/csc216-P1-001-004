@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"edu.ncsu.csc216.issue_manager.model.command"},{"l":"edu.ncsu.csc216.issue_manager.model.io"},{"l":"edu.ncsu.csc216.issue_manager.model.issue"},{"l":"edu.ncsu.csc216.issue_manager.model.manager"},{"l":"edu.ncsu.csc216.issue_manager.view.ui"}]
